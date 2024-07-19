@@ -1,1 +1,3 @@
-# basic-informational-site
+This is a quick and simple project where I was able to implement some Node.js basics for the first time, such as the http and fs modules and page routing. The project instructions can be found here: https://www.theodinproject.com/lessons/nodejs-basic-informational-site/project_submissions
+
+It was nice to put some of my recent learning to use in a way that wasn't complicated. Since this is a very simple project, I did not host a live version. However, the code can be run locally. 
