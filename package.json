@@ -1,0 +1,15 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "This is a quick and simple project where I was able to implement some Node.js basics for the first time, such as the http and fs modules and page routing. The project instructions can be found here: https://www.theodinproject.com/lessons/nodejs-basic-informational-site/project_submissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
